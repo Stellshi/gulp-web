@@ -28,7 +28,7 @@ var path = {
     src: {
         html: "src/*.html",
         js: "src/assets/js/*.js",
-        css: "src/assets/sass/style.scss",
+        css: "src/assets/sass/style.scss",s
         images: "src/assets/img/**/*.{jpg,png,svg,gif,ico}"
     },
     watch: {
